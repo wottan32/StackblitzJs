@@ -1,3 +1,4 @@
-# js-19uxrj
+Testing new enviroment for emergencies.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-19uxrj)
+
+not  main option at all
